@@ -1,0 +1,11 @@
+{
+  "lastMatchedIntent": string,
+  "displayName": string,
+  "parameters": {
+    string: {
+      object (IntentParameterValue)
+    },
+    ...
+  },
+  "confidence": number
+}
